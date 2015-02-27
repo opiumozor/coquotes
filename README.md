@@ -7,7 +7,7 @@ The idea for this project came after spending four years with my friend Corentin
 
 `./add_quotes.py "Coco" "Apple, Google and Facebook are startup companies."`
 
-This add a new quote in the file quote_list.json. Then this file is parsed by the index.php and generate the web page.
+Add a new quote in the file quote_list.json. Then this file is parsed by the index.php and generate the web page.
 
 ## Requirements
 
